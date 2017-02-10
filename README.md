@@ -6,7 +6,7 @@ Base On
 ==========
 This image base on cloudesire/docker-tomcat, which ultimate based upon ubuntu:trusty.
 
-I read the dockerfile and they are trustworthy. 
+I read the dockerfiles and they are trustworthy. 
 
 
 Usage
