@@ -1,6 +1,6 @@
 Introduction
 ============
-Docker for LogicalDoc Community Version
+Docker for LogicalDoc Community Edition
 
 Base On
 ==========
