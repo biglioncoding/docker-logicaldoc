@@ -13,6 +13,12 @@ Usage
 =====
 docker run --name docker-logicaldoc -it -d -p 8081:8080 -v path-to-repository:/documents biglioncoding/docker-logicaldoc:[latest:7.5.3:7.5.1]
 
+
+Tags
+====
+docker-logicaldoc:7.5.3 | latest
+docker-logicaldoc:7.5.1
+
 External Links
 ==============
 https://sourceforge.net/projects/logicaldoc
