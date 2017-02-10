@@ -15,6 +15,6 @@ docker run --name docker-logicaldoc -it -d -p 8081:8080 -v path-to-repository:/d
 
 External Links
 ==============
-https://sourceforge.net/projects/logicaldoc/
+https://sourceforge.net/projects/logicaldoc
 https://github.com/ClouDesire/docker-tomcat
 https://github.com/ClouDesire/docker-java
